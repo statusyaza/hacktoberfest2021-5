@@ -53,5 +53,6 @@
 | NMORTHA | [nmortha](https://github.com/nmortha)||
 | Srijon Kumar | [noobSrijon](https://github.com/noobSrijon) |  |
 | Dimuthu Lakshan | [Dimuthu-10](https://github.com/Dimuthu-10)| 
+| Aly Zakki Yaza | [YAZA](https://github.com/statusyaza)| 1 |
 
 
